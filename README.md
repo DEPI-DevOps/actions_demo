@@ -1,3 +1,5 @@
+![Tests](https://github.com/DEPI-DevOps/actions_demo/actions/workflows/pytest.yml/badge.svg)
+
 # app_python
 
 ## Initialization
